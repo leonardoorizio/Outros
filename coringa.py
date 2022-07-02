@@ -1,0 +1,1 @@
+arquivo = open("C:\Users\amaro\Downloads\teste_python")
